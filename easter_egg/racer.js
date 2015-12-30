@@ -4,7 +4,7 @@
  */
 
 cheet('↑ ↑ ↓ ↓ ← → ← → b a', function () {
-	alert('You Cheeky Bastard');
+//	alert('You Cheeky Bastard');
 	var racer = new Audio('/easter_egg/Queen-Bicycle-Race.mp3');
 	racer.play();
 });
